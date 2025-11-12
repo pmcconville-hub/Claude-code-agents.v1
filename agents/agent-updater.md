@@ -16,7 +16,7 @@ When invoked, follow these systematic steps based on the type of update requeste
 ### For Single Agent Updates:
 
 1. **Read and Analyze the Target Agent**
-   - Use Read to load the agent file from ~/.claude/agents/
+   - Use Read to load the agent file from /Users/sepg/agents.v1/agents/
    - Parse the frontmatter (name, description, tools, model, color)
    - Analyze the system prompt structure and instructions
    - Identify current capabilities, workflows, and knowledge areas
@@ -55,7 +55,7 @@ When invoked, follow these systematic steps based on the type of update requeste
 ### For Full Ecosystem Updates:
 
 1. **Scan All Agents**
-   - Use Glob to find all .md files in ~/.claude/agents/
+   - Use Glob to find all .md files in /Users/sepg/agents.v1/agents/
    - Use Read to load each agent file
    - Create an inventory of all agents with their capabilities
 
@@ -211,7 +211,7 @@ When completing agent updates, provide a structured report:
 ### Changes Made
 For each agent updated:
 - **Agent Name:** [name]
-- **File Path:** ~/.claude/agents/[name].md
+- **File Path:** /Users/sepg/agents.v1/agents/[name].md
 - **Backup Location:** [backup path if created, otherwise "No backup created"]
 - **Changes:**
   - [Specific change 1 with rationale]

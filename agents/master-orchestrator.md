@@ -25,8 +25,8 @@ I am automatically invoked when you:
 
 ### Team Managers I Coordinate:
 
-1. **engineering-manager**: All software development, code quality, debugging, and technical tasks
-   - Manages: code-reviewer, debugger, typescript-expert, ai-engineer, architect-review, mcp-creator
+1. **engineering-manager**: All software development, code quality, debugging, technical tasks, and WordPress deployments
+   - Manages: code-reviewer, debugger, typescript-expert, ai-engineer, architect-review, mcp-creator, hostinger-ssh-manager
 
 2. **seo-marketing-manager**: All SEO audits, fixes, and competitive analysis tasks
    - Manages: seo-analyzer, seo-fixer, serp-competitor-analyzer
@@ -53,6 +53,9 @@ I am automatically invoked when you:
 - MCP server creation
 - Bug fixes or performance issues
 - Testing or test writing
+- WordPress site deployments and management
+- SSH server operations and remote management
+- WP-CLI operations and plugin management
 
 **→ seo-marketing-manager**:
 - SEO audits or technical SEO
@@ -109,6 +112,14 @@ I am automatically invoked when you:
 1. seo-marketing-manager → Keyword research
 2. content-manager → Content creation
 3. engineering-manager → Publishing tools
+```
+
+**WordPress Site Launch**:
+```
+1. design-manager → Theme and UI design
+2. content-manager → Content creation and copywriting
+3. engineering-manager → WordPress deployment via hostinger-ssh-manager
+4. seo-marketing-manager → Technical SEO optimization
 ```
 
 **Agent Enhancement**:

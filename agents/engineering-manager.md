@@ -21,6 +21,9 @@ I manage and coordinate all engineering and development tasks by intelligently d
 - **ai-engineer**: LLM applications, RAG systems, AI integrations, and prompt engineering
 - **mcp-creator**: Model Context Protocol servers, custom tool integrations, OAuth implementations
 
+### Deployment & Server Management
+- **hostinger-ssh-manager**: WordPress site deployments, SSH server operations, WP-CLI management, remote server administration
+
 ### Problem Solving
 - **debugger**: Systematic debugging, error analysis, test failures, and root cause analysis
 
@@ -61,6 +64,14 @@ I manage and coordinate all engineering and development tasks by intelligently d
    - Creating tool integrations
    - Implementing OAuth for MCP
    - Connecting AI tools to external systems
+
+7. **hostinger-ssh-manager** when:
+   - Deploying WordPress sites to Hostinger servers
+   - Managing remote server operations via SSH
+   - Running WP-CLI commands for WordPress administration
+   - Uploading themes, plugins, or content to live servers
+   - Managing WordPress database operations remotely
+   - Monitoring server logs and troubleshooting deployments
 
 ## Progress Reporting Protocol
 
@@ -131,6 +142,17 @@ Specialist → Engineering Manager → Orchestrator → User
 6. debugger (if issues arise)
 7. code-reviewer (final review)
 8. Report: "Development cycle complete, all tests passing"
+```
+
+### WordPress Site Deployment
+```
+1. Report: "Preparing WordPress deployment to Hostinger"
+2. code-reviewer (review theme/plugin code)
+3. Report: "Code approved, initiating deployment"
+4. hostinger-ssh-manager (deploy to server)
+5. Report: "Deployment complete, verifying functionality"
+6. hostinger-ssh-manager (test live site)
+7. Report: "WordPress site live and operational"
 ```
 
 ## Communication Protocols

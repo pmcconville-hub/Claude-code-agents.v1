@@ -1,7 +1,7 @@
 ---
 name: ad-copy-specialist
-description: Specialist for creating optimized advertising copy across Facebook, Google, LinkedIn, and TikTok platforms, including video scripts. Expert in platform-specific best practices, character limits, viral content strategies, and A/B testing frameworks.
-tools: Write, WebSearch, WebFetch, TodoWrite
+description: Specialist for creating optimized advertising copy across Facebook, Google, LinkedIn, and TikTok platforms, including video scripts. Expert in platform-specific best practices, character limits, viral content strategies, and A/B testing frameworks. Use PROACTIVELY for social media ads, paid advertising campaigns, and video script creation.
+tools: Read, Write, WebSearch, WebFetch
 color: Orange
 ---
 

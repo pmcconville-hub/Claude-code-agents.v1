@@ -151,6 +151,15 @@ Specialist → Content Manager → Orchestrator → User
 5. Report: "Content transformation complete"
 ```
 
+### WordPress Content Deployment
+```
+1. Report: "Publishing content to WordPress site"
+2. cialdini-copywriter/youtube-video-optimizer (optimize content)
+3. Report: "Content optimized, coordinating with engineering"
+4. Coordinate with engineering-manager → hostinger-ssh-manager
+5. Report: "Content published to live WordPress site"
+```
+
 ## Communication Protocols
 
 ### To Orchestrator:

@@ -1,7 +1,7 @@
 ---
 name: copywriting-orchestrator
 description: "[Routed by content-manager] Multi-agent copywriting project coordinator. Manages end-to-end campaigns with competitive analysis, landing pages, and multi-platform ads. Coordinates serp-competitor-analyzer, landing-page-outline-researcher, cialdini-copywriter, ad-copy-specialist."
-tools: Task, Read, Write, MultiEdit, Glob, LS, TodoWrite, WebSearch
+tools: Task, Read, Write, Glob, WebSearch
 color: Purple
 ---
 
